@@ -7,3 +7,5 @@
 <h3>Javascript Season 1</h3>
 <h4>Code 1 : Javascript code for optimization of data querying for save and search in database </h4>
 <h4>Code 2 : Javascript code for Swapping two variables without using temporary variable </h4>
+<h4>Code 3 :  </h4>
+<h4>Code 4 : Javascript code for Removing list of array from array </h4>
